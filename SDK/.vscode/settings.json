@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.csv": "c",
+        "*.c": "c",
+        "timer.h": "c"
+    }
+}

@@ -1,0 +1,30 @@
+#ifndef ASM_INCLUDES_H
+#define ASM_INCLUDES_H
+
+#include "asm/cpu.h"
+#include "asm/crc16.h"
+#include "asm/uart_types.h"
+
+
+#include "gpio.h"
+
+#include "asm/spiflash.h"
+#include "asm/csfr.h"
+#include "asm/power_interface.h"
+#include "asm/efuse.h"
+#include "asm/wdt.h"
+#include "asm/debug.h"
+#include "uart.h"
+
+
+
+
+
+
+
+
+
+
+
+
+#endif

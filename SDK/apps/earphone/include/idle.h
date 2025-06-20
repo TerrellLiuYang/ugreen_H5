@@ -1,0 +1,14 @@
+#ifndef APP_MODE_IDLE_H
+#define APP_MODE_IDLE_H
+
+
+
+enum {
+    IDLE_MODE_CHARGE,
+    IDLE_MODE_PLAY_POWEROFF,
+    IDLE_MODE_WAIT_POWEROFF,
+};
+
+
+
+#endif
